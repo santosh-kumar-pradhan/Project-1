@@ -1,4 +1,4 @@
 # Project-1
 This is My First git Repository
 <br>
-Author:Santosh
+Author:Santosh Kumar Pradhan
